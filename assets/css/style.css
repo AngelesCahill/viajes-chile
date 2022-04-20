@@ -99,8 +99,6 @@ button {
 footer {
     padding-left: 5rem;
     padding-right: 5rem;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
     top: 0;
     width: 100%;
     height: 4rem;
@@ -108,12 +106,14 @@ footer {
     color: #ffff;
 }
 
-h3 {
-    font-size: 1.3rem;
-    font-weight: 300;
-    text-align: center;
+div.pie-pag {
+    height: 100%;
 }
 
-span {
-    margin-left: 30%;
+h3 {
+    font-size: 3rem;
+    font-weight: 300;
+}
+i {
+    font-size: 3rem;
 }
